@@ -134,6 +134,5 @@ License
 This project is provided as-is for educational and learning purposes.
 
 Author
-Yusra Babari
 
 Last Updated: May 2026
