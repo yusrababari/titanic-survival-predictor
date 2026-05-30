@@ -117,7 +117,7 @@ Feature engineering choices
 Hyperparameter tuning
 Cross-validation strategy
 Random Forest and Gradient Boosting typically show strong performance due to their ensemble nature and ability to capture non-linear relationships.
-
+-Dashboard.html was added
 Future Improvements
 [ ] Advanced feature engineering (interaction terms, polynomial features)
 [ ] Ensemble voting classifiers
